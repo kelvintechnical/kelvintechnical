@@ -6,7 +6,7 @@ Building my foundation in tech with a focus on software engineering, cybersecuri
 🌱 **I’m currently learning:**  
 Python and PHP as I work towards my bachelor's degree in Software Engineering at Western Governors University. My mission is to leave helpful comments in my code to aid in my learning and to support others on their coding journeys.
 
-💞️ **I’m looking to collaborate on:**  
+🤝  ** I’m looking to collaborate on:**  
 Projects where I can contribute and learn, especially in web development, automation, and cybersecurity. Whether you're working on innovative applications or tackling real-world challenges, let’s connect!
 
 📫 **How to reach me:**  
