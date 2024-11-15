@@ -66,4 +66,15 @@ A curated collection of 200 Python project ideas for developers at all levels. T
 
 ---
 
+### [23 Java Projects](https://github.com/kelvintechnical/23-Java-Projects/blob/main/README.md)  
+**Description:**  
+This repository contains 23 Java projects that I created to enhance my programming skills and prepare for my Java Objective Assessment. Each project is designed to practice core Java concepts while solving real-world problems.  
+
+**Highlights:**  
+- Projects cover a wide range of applications including banking systems, chat apps, and management tools.  
+- Each project includes comments and documentation to explain the code and reinforce learning.  
+- Aimed at solidifying Java fundamentals and preparing for assessments or interviews.  
+
+---
+
 Feel free to explore these projects, give feedback, and contribute! Let’s grow together 🚀  
