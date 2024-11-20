@@ -44,6 +44,19 @@ A full-stack Angular application with a Python backend for scheduling and managi
 
 ---
 
+
+
+### [JAVA PROJECTS](https://github.com/kelvintechnical/JAVA-COMPOUND/blob/main/README.md)  
+**Description:**  
+This repository contains Java projects that I created to enhance my programming skills and prepare for my Java Objective Assessment. Each project is designed to practice core Java concepts while solving real-world problems.  
+
+**Highlights:**  
+- Projects cover a wide range of applications including banking systems, chat apps, and management tools.  
+- Each project includes comments and documentation to explain the code and reinforce learning.  
+- Aimed at solidifying Java fundamentals and preparing for assessments or interviews.  
+
+---
+
 ### [SOC Analyst Projects (React & Python)](https://github.com/kelvintechnical/SOC-Analyst-projects)  
 **Description:**  
 A portfolio of projects designed to highlight my skills and passion for becoming a Security Operations Center (SOC) Analyst. The projects use React for interactive frontends and Python for backend processing and security tools.  
@@ -64,16 +77,6 @@ A curated collection of 200 Python project ideas for developers at all levels. T
 - Each idea is designed to challenge and inspire creativity in problem-solving.  
 - A perfect resource for anyone looking to expand their Python knowledge and portfolio.  
 
----
-
-### [ava PROJECTS](https://github.com/kelvintechnical/JAVA-COMPOUND/blob/main/README.md)  
-**Description:**  
-This repository contains Java projects that I created to enhance my programming skills and prepare for my Java Objective Assessment. Each project is designed to practice core Java concepts while solving real-world problems.  
-
-**Highlights:**  
-- Projects cover a wide range of applications including banking systems, chat apps, and management tools.  
-- Each project includes comments and documentation to explain the code and reinforce learning.  
-- Aimed at solidifying Java fundamentals and preparing for assessments or interviews.  
 
 ---
 
