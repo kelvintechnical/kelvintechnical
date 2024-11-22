@@ -57,6 +57,7 @@ This repository contains Java projects that I created to enhance my programming 
 
 ---
 
+<!--  
 ### [SOC Analyst Projects (React & Python)](https://github.com/kelvintechnical/SOC-Analyst-projects)  
 **Description:**  
 A portfolio of projects designed to highlight my skills and passion for becoming a Security Operations Center (SOC) Analyst. The projects use React for interactive frontends and Python for backend processing and security tools.  
@@ -67,7 +68,6 @@ A portfolio of projects designed to highlight my skills and passion for becoming
 - Python scripts focus on log analysis, threat detection, and automation.  
 
 ---
-
 ### [200 Python Project Ideas](https://github.com/kelvintechnical/200-Python-Project-Ideas)  
 **Description:**  
 A curated collection of 200 Python project ideas for developers at all levels. This repository serves as a resource for inspiration and growth, helping developers explore new concepts and build their skills.  
@@ -81,3 +81,5 @@ A curated collection of 200 Python project ideas for developers at all levels. T
 ---
 
 Feel free to explore these projects, give feedback, and contribute! Let’s grow together 🚀  
+
+-->
