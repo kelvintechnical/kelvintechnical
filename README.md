@@ -22,9 +22,9 @@ You’ll often find plenty of comments in my code. Not only am I actively learni
 
 ## Featured Projects  
 
-### [25 Python Machine Learning Projects](https://github.com/kelvintechnical/25-Python-Machine-Learning-Projects)  
+### [6 Python Machine Learning Projects](https://github.com/kelvintechnical/25-Python-Machine-Learning-Projects)  
 **Description:**  
-A collection of 25 machine learning projects that showcase a variety of algorithms and techniques. These projects demonstrate the power of Python and libraries like NumPy, pandas, scikit-learn, and TensorFlow.  
+6 machine learning projects that showcase a variety of algorithms and techniques. These projects demonstrate the power of Python and libraries like NumPy, pandas, scikit-learn, and TensorFlow.  
 
 **Highlights:**  
 - Covers supervised and unsupervised learning models.  
@@ -44,18 +44,15 @@ A full-stack Angular application with a Python backend for scheduling and managi
 
 ---
 
-
-
-### [JAVA PROJECTS](https://github.com/kelvintechnical/JAVA-COMPOUND/blob/main/README.md)  
+### [CODECOMPOUND](https://github.com/kelvintechnical/CODECOMPOUND)  
 **Description:**  
-This repository contains Java projects that I created to enhance my programming skills and prepare for my Java Objective Assessment. Each project is designed to practice core Java concepts while solving real-world problems.  
+Step-by-step explanations of code, designed to make programming concepts easier to understand. This project provides an interactive and user-friendly interface with exercises for hands-on learning.  
 
 **Highlights:**  
-- Projects cover a wide range of applications including banking systems, chat apps, and management tools.  
-- Each project includes comments and documentation to explain the code and reinforce learning.  
-- Aimed at solidifying Java fundamentals and preparing for assessments or interviews.  
+- Option to copy the completed code for personal use, supporting hands-on learning.  
+- Interactive and user-friendly interface that caters to learners of all ages.  
+- Enhanced experience with various programming exercises that users can practice.
 
----
 
 <!--  
 ### [SOC Analyst Projects (React & Python)](https://github.com/kelvintechnical/SOC-Analyst-projects)  
