@@ -13,7 +13,7 @@ Projects where I can contribute and learn, especially in web development, automa
 - **Email:** [ktobia10@wgu.edu](mailto:ktobia10@wgu.edu)  
 - **LinkedIn:** [Kelvin R. Tobias](https://www.linkedin.com/in/kelvin-r-tobias-211949219/)  
 - **Bluesky:** [@kelvintechnical.bsky.social](https://bsky.app/profile/kelvintechnical.bsky.social)  
-- **Instagram:** [@kelvinintech](https://www.instagram.com/kelvinintech/)  
+- **Instagram:** [@kelvin_intech](https://www.instagram.com/kelvinintech/)  
 
 ⚡ **Fun fact:**  
 You’ll often find plenty of comments in my code. Not only am I actively learning, but I’m also always eager to help others on their educational paths. And if you’re reading this, it means I’m still on my journey into the tech world—excited for what’s ahead!
