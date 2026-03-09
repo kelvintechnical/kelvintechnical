@@ -10,7 +10,7 @@ I am a Software Engineer pivoting from enterprise systems and healthcare IT into
 
 ## 🔬 2026 Roadmap: From Application Support to AI Research
 
-I am currently in a high-intensity transition phase: working full-time as an Application Support Analyst at Principle IT Services while building the technical foundations for my **Master's in AI Engineering at WGU** (starting Dec 2026) and future **PhD research in Computational Biology**.
+I am currently in a high-intensity transition phase: working full-time as an Application Support Analyst  while building the technical foundations for my **Master's in AI Engineering at WGU** (starting Dec 2026) and future **PhD research in Computational Biology**.
 
 | Focus Area | Objective | Status |
 | :--- | :--- | :--- |
