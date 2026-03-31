@@ -1,14 +1,14 @@
 ## *I use generative AI to map and navigate protein sequence space toward better biological function.*
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ![CompTIA Security+](https://img.shields.io/badge/Security%2B-FF0000?style=flat&logo=comptia&logoColor=white)
 ![CompTIA Linux+](https://img.shields.io/badge/Linux%2B-FF0000?style=flat&logo=comptia&logoColor=white)
-![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![ITIL 4](https://img.shields.io/badge/ITIL_4-6E2B8B?style=flat&logo=itil&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![AWS ML Engineer Associate](https://img.shields.io/badge/AWS_ML_Engineer_Associate-232F3E?style=flat&logo=amazonaws&logoColor=white&label=In+Progress)
 
 ## Who I Am
