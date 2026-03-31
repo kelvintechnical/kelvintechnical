@@ -1,87 +1,36 @@
-# Kelvin R. Tobias | Software Engineer → AI Researcher 🛠️🧬
+## *I use generative AI to map and navigate protein sequence space toward better biological function.*
 
-> **"You can fail at what you don't want, so you might as well take a chance on doing what you love."** — Jim Carrey
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-I am a Software Engineer pivoting from enterprise systems and healthcare IT into the frontiers of **AI Engineering and Computational Biology**. I treat biological sequences as optimizable legacy codebases and deep learning as the compiler that reveals their function.
+## Who I Am
 
-**Latest Milestone:** Completed B.S. in Software Engineering from Western Governors University (01/2026) with **3 Excellence Awards** in Systems Architecture, Mobile Development, and Composition. 🎓✨
+I spent 10 years as a diesel mechanic before moving into software engineering, carrying the same diagnostic mindset from physical systems into software systems. I completed a B.S. in Software Engineering at WGU in January 2026 with 3 Excellence Awards, and I start my M.S. in AI Engineering at WGU in December 2026. I am now building toward PhD-level research in computational biology while continuing to ship practical engineering work. The through-line has always been systems thinking and troubleshooting under uncertainty.
 
----
+### What I'm Building
 
-## 🔬 2026 Roadmap: From Application Support to AI Research
+The research track is growing directly from a strong engineering base that stays visible and active.
 
-I am currently in a high-intensity transition phase: working full-time as an Application Support Analyst  while building the technical foundations for my **Master's in AI Engineering at WGU** (starting Dec 2026) and future **PhD research in Computational Biology**.
+| Research Track | Engineering Track |
+| --- | --- |
+| [DNA_Tensor_Lab](https://github.com/kelvintechnical/DNA_Tensor_Lab); [pytorch-tensors-lab](https://github.com/kelvintechnical/pytorch-tensors-lab); [dog-breed-prediction](https://github.com/kelvintechnical/dog-breed-prediction) - CNN -> sequence classifier bridge; [sequence-language-models](https://github.com/kelvintechnical/sequence-language-models) *(in development)*; [protein-fitness-vae](https://github.com/kelvintechnical/protein-fitness-vae) *(in development)*; [lde-directed-search](https://github.com/kelvintechnical/lde-directed-search) *(in development)* | [25-Python-Data-Visualization-Projects](https://github.com/kelvintechnical/25-Python-Data-Visualization-Projects); [SOC-Analyst-projects](https://github.com/kelvintechnical/SOC-Analyst-projects); [Installing-and-Configuring-Active-Directory-in-Azure](https://github.com/kelvintechnical/Installing-and-Configuring-Active-Directory-in-Azure); [6 ML projects repo](https://github.com/kelvintechnical/6-ML-projects); Angular appointment scheduling app |
 
-| Focus Area | Objective | Status |
-| :--- | :--- | :--- |
-| **PyTorch Deep Learning** | Fundamentals | Neural Nets | Computer Vision | NLP | 🔥 Active (Section 2/5) |
-| **Python for Data Science & ML** | NumPy, Pandas, Scikit-Learn, real-world pipelines | 🔥 Active |
-| **Bioinformatics with Python** | Sequence analysis, NCBI data, Biopython | 🧬 Active |
-| **Applied Bioinformatics** | Sequences | Protein Structures (end-to-end) | 🧬 Active |
-| **M.S. AI Engineering** | Western Governors University: Deep learning & MLOps | ⏳ Starting Dec 2026 |
-| **LDE Research** | Latent-based Directed Evolution via generative manifolds | 📐 Architecture Phase |
+### Currently Learning
 
----
+- *Molecular Biology of the Cell* (Alberts et al.)
+- *Biological Sequence Analysis* (Durbin et al.)
+- StatQuest (Josh Starmer) for intuition building
+- *Bioinformatics Algorithms* (Compeau & Pevzner)
 
-## 🧬 The Research Focus: Latent-based Directed Evolution (LDE)
+### Writing
 
-Most engineers optimize software. I'm learning to optimize **life itself.**
+I actively publish **PyTorch Zero to One** on Hashnode (32+ articles): [hashnode.com/@kelvintechnical](https://hashnode.com/@kelvintechnical).
+The series moves from PyTorch fundamentals through biological sequence modeling.
 
+### Connect
 
+- Portfolio: [kelvinintech.com](https://kelvinintech.com)
+- LinkedIn: [linkedin.com/in/kelvin-r-tobias-211949219](https://www.linkedin.com/in/kelvin-r-tobias-211949219)
+- Hashnode: [hashnode.com/@kelvintechnical](https://hashnode.com/@kelvintechnical)
 
-LDE sits at the intersection of Generative AI and Evolutionary Biology:
-
-* **Latent Space Mapping** | Compressing high-dimensional genetic data into navigable mathematical maps using VAEs and Transformers.
-* **Directed Navigation** | Using optimization algorithms to "walk" toward a target biological function instead of waiting for random mutations.
-* **Evolutionary Acceleration** | Simulating millions of years of natural selection in weeks by generating high-probability protein variants.
-
-
-
-> DNA = Source Code. Proteins = Compiled Executables. Mutations = Refactoring. LDE = Intelligent Compiler.
-
----
-
-## 📁 Featured Repositories
-
-### [pytorch-deep-learning-lab](https://github.com/kelvintechnical/pytorch-deep-learning-lab)
-**Custom Neural Architectures and Autograd Engineering**
-A laboratory for PyTorch experimentation and 40+ real-world Data Science projects. Focus areas: architecture search, custom loss landscapes, and diagnostic gradient analysis for model stability and performance.
-
-### [bioinformatics-sequence-toolkit](https://github.com/kelvintechnical/bioinformatics-sequence-toolkit)
-**Data Engineering for Biological Sequences**
-Memory-efficient Python utilities for processing large-scale genomic and protein data. Bridges traditional software engineering logic with high-performance biological data structures.
-
----
-
-## 🛠️ Technical Architecture
-
-### Systems & Enterprise Engineering
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-*Healthcare IT systems, database architecture, enterprise application design, and CI/CD pipelines.*
-
-### AI Research & Data Science (Active Build)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=flat-square&logo=python&logoColor=white)
-
-*Deep learning frameworks, numerical computing, sequence analysis, and bioinformatics pipelines.*
-
----
-
-## 📊 Current Certifications
-* ✅ CompTIA Security+
-* ✅ CompTIA Linux+
-* ✅ AWS Cloud Practitioner
-* ✅ ITIL 4 Foundation
-* 🔄 AWS Machine Learning Engineer Associate (In Progress)
-
----
-
-## 🌐 Let's Connect
-
-I'm interested in collaborating with researchers and engineers at the intersection of **AI, Protein Engineering, Latent Space Mapping, and Healthcare Data**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-r-tobias-211949219/) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.kelvinintech.com) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ktobia10@wgu.edu)
-
----
-
-> "The principles of modularity and fault tolerance are universal. I changed the system I'm troubleshooting: from diesel engines to DNA." 🙏✨
+*Every project here is a layer in the same stack. The stack just goes deeper than software.*
