@@ -5,15 +5,29 @@
 
 ## Who I Am
 
-I spent 10 years as a diesel mechanic before moving into software engineering, carrying the same diagnostic mindset from physical systems into software systems. I completed a B.S. in Software Engineering at WGU in January 2026 with 3 Excellence Awards, and I start my M.S. in AI Engineering at WGU in December 2026. I am now building toward PhD-level research in computational biology while continuing to ship practical engineering work. The through-line has always been systems thinking and troubleshooting under uncertainty.
+I spent 10 years as a diesel mechanic before moving into software engineering, carrying the same diagnostic mindset from physical systems into software systems. I completed a B.S. in Software Engineering at WGU in January 2026 with 3 Excellence Awards, and I start my M.S. in AI Engineering at WGU in December 2026. My research focus is Latent-Based Directed Evolution - using generative AI to compress and navigate protein sequence space toward functional protein variants. I am now building toward PhD-level research in computational biology while continuing to ship practical engineering work. The through-line has always been systems thinking and troubleshooting under uncertainty.
 
 ### What I'm Building
 
-The research track is growing directly from a strong engineering base that stays visible and active.
+**Research Track** *(growing toward LDE)*
 
-| Research Track | Engineering Track |
-| --- | --- |
-| [DNA_Tensor_Lab](https://github.com/kelvintechnical/DNA_Tensor_Lab); [pytorch-tensors-lab](https://github.com/kelvintechnical/pytorch-tensors-lab); [dog-breed-prediction](https://github.com/kelvintechnical/dog-breed-prediction) - CNN -> sequence classifier bridge; [sequence-language-models](https://github.com/kelvintechnical/sequence-language-models) *(in development)*; [protein-fitness-vae](https://github.com/kelvintechnical/protein-fitness-vae) *(in development)*; [lde-directed-search](https://github.com/kelvintechnical/lde-directed-search) *(in development)* | [25-Python-Data-Visualization-Projects](https://github.com/kelvintechnical/25-Python-Data-Visualization-Projects); [SOC-Analyst-projects](https://github.com/kelvintechnical/SOC-Analyst-projects); [Installing-and-Configuring-Active-Directory-in-Azure](https://github.com/kelvintechnical/Installing-and-Configuring-Active-Directory-in-Azure); [6 ML projects repo](https://github.com/kelvintechnical/6-ML-projects); Angular appointment scheduling app |
+| Repo | Status |
+| ------ | -------- |
+| [DNA_Tensor_Lab](https://github.com/kelvintechnical/DNA_Tensor_Lab) | Active |
+| [pytorch-tensors-lab](https://github.com/kelvintechnical/pytorch-tensors-lab) | Active |
+| [dog-breed-prediction](https://github.com/kelvintechnical/dog-breed-prediction) - CNN -> sequence classifier bridge | Complete |
+| [sequence-language-models](https://github.com/kelvintechnical/sequence-language-models) | In Development |
+| [protein-fitness-vae](https://github.com/kelvintechnical/protein-fitness-vae) | In Development |
+| [lde-directed-search](https://github.com/kelvintechnical/lde-directed-search) | In Development |
+
+**Engineering Foundation** *(the base the research is built on)*
+
+| Repo | Focus |
+| ------ | ------- |
+| [25-Python-Data-Visualization-Projects](https://github.com/kelvintechnical/25-Python-Data-Visualization-Projects) | Data storytelling |
+| [SOC-Analyst-projects](https://github.com/kelvintechnical/SOC-Analyst-projects) | Security and detection systems |
+| [Active-Directory-in-Azure](https://github.com/kelvintechnical/Installing-and-Configuring-Active-Directory-in-Microsoft-Azure) | Cloud infrastructure |
+| [6-ML-projects](https://github.com/kelvintechnical/6-ML-projects) | ML fundamentals |
 
 ### Currently Learning
 
