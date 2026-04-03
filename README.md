@@ -15,6 +15,14 @@
 
 I spent 10 years as a diesel mechanic before moving into software engineering, carrying the same diagnostic mindset from physical systems into software systems. I completed a B.S. in Software Engineering at WGU in January 2026 with 3 Excellence Awards, and I start my M.S. in AI Engineering at WGU in December 2026. My research focus is Latent-Based Directed Evolution - using generative AI to compress and navigate protein sequence space toward functional protein variants. I am now building toward PhD-level research in computational biology while continuing to ship practical engineering work. The through-line has always been systems thinking and troubleshooting under uncertainty.
 
+
+## Live Progress Dashboard
+
+Track my active roadmap, tier progression, capstones, and compounding project stack here:  
+[kelvincareertracker.netlify.app](https://kelvincareertracker.netlify.app/)
+
+This is my public build log for career progression and project execution.
+
 ### What I'm Building
 
 **Research Track** *(growing toward LDE)*
