@@ -46,11 +46,7 @@ Track my active roadmap, tier progression, capstones, and compounding project st
 |------|-------------|--------|
 | [pytorch-deep-learning-lab](https://github.com/kelvintechnical/pytorch-deep-learning-lab) | Core PyTorch fundamentals and DL experiments | 🔄 Active |
 | [DNA_Tensor_Lab](https://github.com/kelvintechnical/DNA_Tensor_Lab) | Modeling DNA sequences as PyTorch tensors | 🔄 Active |
-| [pytorch-tensors-lab](https://github.com/kelvintechnical/pytorch-tensors-lab) | Tensor operations and autograd deep dives | 🔄 Active |
 | [dog-breed-prediction](https://github.com/kelvintechnical/dog-breed-prediction) | CNN image classifier — bridge to sequence classifiers | ✅ Complete |
-| [sequence-language-models](https://github.com/kelvintechnical/sequence-language-models) | Language models trained on biological sequences | 🛠️ In Development |
-| [protein-fitness-vae](https://github.com/kelvintechnical/protein-fitness-vae) | VAE for navigating protein fitness landscapes | 🛠️ In Development |
-| [lde-directed-search](https://github.com/kelvintechnical/lde-directed-search) | Latent-space directed evolution search pipeline | 🛠️ In Development |
 
 ### ⚙️ Engineering Foundation *(the base the research is built on)*
 
