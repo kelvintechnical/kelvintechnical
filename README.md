@@ -52,10 +52,9 @@ Track my active roadmap, tier progression, capstones, and compounding project st
 
 | Repo | Focus | Status |
 |------|-------|--------|
-| [25-Python-Data-Visualization-Projects](https://github.com/kelvintechnical/25-Python-Data-Visualization-Projects) | Data storytelling with Python | ✅ Complete |
+| [25-Python-Data-Visualization-Projects](https://github.com/kelvintechnical/25-Python-Data-Visualization-Projects) | Data storytelling with Python | 🔄 Active |
 | [SOC-Analyst-projects](https://github.com/kelvintechnical/SOC-Analyst-projects) | 15 ML-upgraded CySA+ security projects | 🔄 Active |
 | [Active-Directory-in-Azure](https://github.com/kelvintechnical/Installing-and-Configuring-Active-Directory-in-Microsoft-Azure) | Cloud infrastructure on Azure | ✅ Complete |
-| [6-ML-projects](https://github.com/kelvintechnical/6-ML-projects) | ML fundamentals | ✅ Complete |
 
 ---
 
