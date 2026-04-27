@@ -17,13 +17,11 @@
 
 ## Who I Am
 
-I spent 10 years as a diesel mechanic before moving into software engineering, carrying the same diagnostic mindset from physical systems into software systems. I completed a B.S. in Software Engineering at WGU in January 2026 with 3 Excellence Awards, and I start my M.S. in AI Engineering at WGU in December 2026.
+I completed a B.S. in Software Engineering at WGU in January 2026 with 3 Excellence Awards and start my M.S. in AI Engineering at WGU in December 2026.
 
 My research focus is **Latent-Based Directed Evolution** — using generative AI to compress and navigate protein sequence space toward functional protein variants. I am building toward PhD-level research in computational biology while continuing to ship practical engineering work.
 
-The through-line has always been systems thinking and troubleshooting under uncertainty—whether diagnosing an engine or mapping a biological search space.
-
-> *"From OBD Ports to Python Imports."*
+The through-line has always been systems thinking and troubleshooting under uncertainty.
 
 ---
 
@@ -37,18 +35,31 @@ The through-line has always been systems thinking and troubleshooting under unce
 | [DNA_Tensor_Lab](https://github.com/kelvintechnical/DNA_Tensor_Lab) | Modeling DNA sequences as PyTorch tensors | 🔄 Active |
 | [dog-breed-prediction](https://github.com/kelvintechnical/dog-breed-prediction) | CNN image classifier — bridge to sequence classifiers | ✅ Complete |
 
+---
+
 ### 🤖 LLM & Agentic Systems *(foundation for tool use and multi-agent reasoning)*
 
 | Repo | What It Does | Languages | Status |
 |------|-------------|-----------|--------|
 | [Hello_LLM](https://github.com/kelvintechnical/Hello_LLM) | Authenticate, structure a request, call Chat Completions API, parse response | Python, C#, R | ✅ Complete |
 | [Persona_Bot](https://github.com/kelvintechnical/Persona_Bot) | Add system persona + conversation loop + full history | Python, C#, R | ✅ Complete |
+| [Chatbot_with_memory](https://github.com/kelvintechnical/Chatbot_with_memory) | Persistent memory across sessions for contextual conversations | Python | ✅ Complete |
+| [ContextFromFile](https://github.com/kelvintechnical/ContextFromFile) | Inject file-based context into LLM prompts | Python | 🔄 In Progress |
+| [PDFReaderBot](https://github.com/kelvintechnical/PDFReaderBot) | Parse and query PDF documents via LLM | Python | 🔜 Next |
+
+---
 
 ### ⚙️ Engineering Foundation *(the base the research is built on)*
 
 | Repo | Focus | Status |
 |------|-------|--------|
+| [D424-Capstone](https://github.com/kelvintechnical/D424-Capstone) | WGU B.S. Software Engineering capstone project | ✅ Complete |
 | [Active-Directory-in-Azure](https://github.com/kelvintechnical/Installing-and-Configuring-Active-Directory-in-Microsoft-Azure) | Cloud infrastructure on Azure | ✅ Complete |
+| [Creating-A-VPN](https://github.com/kelvintechnical/Creating-A-VPN) | VPN setup and configuration | ✅ Complete |
+| [Microsoft-Windows-Defender](https://github.com/kelvintechnical/Microsoft-Windows-Defender) | Endpoint security and threat management | ✅ Complete |
+| [SEC_ERROR_OCSP_FUTURE_RESPONSE](https://github.com/kelvintechnical/SEC_ERROR_OCSP_FUTURE_RESPONSE) | TLS/OCSP certificate error resolution | ✅ Complete |
+
+---
 
 ## Currently Learning
 
