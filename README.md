@@ -1,3 +1,5 @@
+# Kelvin R. Tobias
+
 ## *I use generative AI to map and navigate protein sequence space toward better biological function.*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -15,74 +17,75 @@
 
 ---
 
-## Who I Am
+## 👤 Who I Am
 
-I completed a B.S. in Software Engineering at WGU in January 2026 with 3 Excellence Awards and start my M.S. in AI Engineering at WGU in December 2026.
+B.S. Software Engineering, **WGU 2026** (3× Excellence Award) → M.S. AI Engineering, **WGU Dec 2026** → PhD-track Computational Biology.
 
-My research focus is **Latent-Based Directed Evolution** — using generative AI to compress and navigate protein sequence space toward functional protein variants. I am building toward PhD-level research in computational biology while continuing to ship practical engineering work.
+**Research focus:** Latent-Based Directed Evolution — using generative AI to compress and navigate protein sequence space toward functional variants.
 
-The through-line has always been systems thinking and troubleshooting under uncertainty.
+**Through-line:** systems thinking and troubleshooting under uncertainty.
 
 ---
 
-## What I'm Building
-
-### 🧬 Research Track *(growing toward LDE)*
+## 🧬 Research Track
+*Growing toward LDE*
 
 | Repo | What It Does | Status |
 |------|-------------|--------|
 | [pytorch-deep-learning-lab](https://github.com/kelvintechnical/pytorch-deep-learning-lab) | Core PyTorch fundamentals and DL experiments | 🔄 Active |
-| [DNA_Tensor_Lab](https://github.com/kelvintechnical/DNA_Tensor_Lab) | Modeling DNA sequences as PyTorch tensors | 🔄 Active |
-| [dog-breed-prediction](https://github.com/kelvintechnical/dog-breed-prediction) | CNN image classifier — bridge to sequence classifiers | ✅ Complete |
+| [DNA_Tensor_Lab](https://github.com/kelvintechnical/DNA_Tensor_Lab) | DNA sequences as PyTorch tensors | 🔄 Active |
+| [dog-breed-prediction](https://github.com/kelvintechnical/dog-breed-prediction) | CNN classifier — bridge to sequence classifiers | ✅ Complete |
 
 ---
 
-### 🤖 LLM & Agentic Systems *(foundation for tool use and multi-agent reasoning)*
+## 🤖 LLM & Agentic Systems
+*Foundation for tool use and multi-agent reasoning*
 
 | Repo | What It Does | Languages | Status |
 |------|-------------|-----------|--------|
-| [Hello_LLM](https://github.com/kelvintechnical/Hello_LLM) | Authenticate, structure a request, call Chat Completions API, parse response | Python, C#, R | ✅ Complete |
-| [Persona_Bot](https://github.com/kelvintechnical/Persona_Bot) | Add system persona + conversation loop + full history | Python, C#, R | ✅ Complete |
-| [Chatbot_with_memory](https://github.com/kelvintechnical/Chatbot_with_memory) | Persistent memory across sessions for contextual conversations | Python | ✅ Complete |
-| [ContextFromFile](https://github.com/kelvintechnical/ContextFromFile) | Inject file-based context into LLM prompts | Python | 🔄 In Progress |
-| [PDFReaderBot](https://github.com/kelvintechnical/PDFReaderBot) | Parse and query PDF documents via LLM | Python | 🔜 Next |
+| [Hello_LLM](https://github.com/kelvintechnical/Hello_LLM) | API auth, request structuring, response parsing | Python, C#, R | ✅ Complete |
+| [Persona_Bot](https://github.com/kelvintechnical/Persona_Bot) | System persona + conversation loop + history | Python, C#, R | ✅ Complete |
+| [Chatbot_with_memory](https://github.com/kelvintechnical/Chatbot_with_memory) | Persistent memory across sessions | Python | ✅ Complete |
+| [ContextFromFile](https://github.com/kelvintechnical/ContextFromFile) | Inject file-based context into prompts | Python | 🔄 In Progress |
+| [PDFReaderBot](https://github.com/kelvintechnical/PDFReaderBot) | Parse and query PDFs via LLM | Python | 🔜 Next |
 
 ---
 
-### ⚙️ Engineering Foundation *(the base the research is built on)*
+## ⚙️ Engineering Foundation
+*The base the research is built on*
 
 | Repo | Focus | Status |
 |------|-------|--------|
-| [D424-Capstone](https://github.com/kelvintechnical/D424-Capstone) | WGU B.S. Software Engineering capstone project | ✅ Complete |
-| [Active-Directory-in-Azure](https://github.com/kelvintechnical/Installing-and-Configuring-Active-Directory-in-Microsoft-Azure) | Cloud infrastructure on Azure | ✅ Complete |
+| [linux-ops-mastery](https://github.com/kelvintechnical/linux-ops-mastery) | RHCSA → RHCE full study guide | 🔄 Active |
+| [D424-Capstone](https://github.com/kelvintechnical/D424-Capstone) | WGU B.S. Software Engineering capstone | ✅ Complete |
+| [Active-Directory-in-Azure](https://github.com/kelvintechnical/Installing-and-Configuring-Active-Directory-in-Microsoft-Azure) | Cloud infrastructure | ✅ Complete |
 | [Creating-A-VPN](https://github.com/kelvintechnical/Creating-A-VPN) | VPN setup and configuration | ✅ Complete |
-| [Microsoft-Windows-Defender](https://github.com/kelvintechnical/Microsoft-Windows-Defender) | Endpoint security and threat management | ✅ Complete |
-| [SEC_ERROR_OCSP_FUTURE_RESPONSE](https://github.com/kelvintechnical/SEC_ERROR_OCSP_FUTURE_RESPONSE) | TLS/OCSP certificate error resolution | ✅ Complete |
+| [Microsoft-Windows-Defender](https://github.com/kelvintechnical/Microsoft-Windows-Defender) | Endpoint security | ✅ Complete |
+| [SEC_ERROR_OCSP_FUTURE_RESPONSE](https://github.com/kelvintechnical/SEC_ERROR_OCSP_FUTURE_RESPONSE) | TLS/OCSP error resolution | ✅ Complete |
 
 ---
 
-## Currently Learning
+## 📚 Currently Reading
 
-- *Molecular Biology of the Cell* (Alberts et al.)
-- *Biological Sequence Analysis* (Durbin et al.)
-- StatQuest (Josh Starmer) for intuition building
-- *Bioinformatics Algorithms* (Compeau & Pevzner)
-
----
-
-## Writing
-
-I actively publish **PyTorch Zero to One** on Hashnode (32+ articles): [hashnode.com/@kelvintechnical](https://hashnode.com/@kelvintechnical)
-
-The series moves from PyTorch fundamentals through biological sequence modeling.
+- *Molecular Biology of the Cell* — Alberts et al.
+- *Biological Sequence Analysis* — Durbin et al.
+- *Bioinformatics Algorithms* — Compeau & Pevzner
+- StatQuest (Josh Starmer) — intuition building
 
 ---
 
-## Connect
+## ✍️ Writing
 
-- 🌐 Portfolio: [kelvinintech.com](https://kelvinintech.com)
-- 💼 LinkedIn: [linkedin.com/in/kelvin-r-tobias-211949219](https://www.linkedin.com/in/kelvin-r-tobias-211949219)
-- ✍️ Hashnode: [hashnode.com/@kelvintechnical](https://hashnode.com/@kelvintechnical)
+**PyTorch Zero to One** on Hashnode — 32+ articles, fundamentals → biological sequence modeling.
+→ [hashnode.com/@kelvintechnical](https://hashnode.com/@kelvintechnical)
+
+---
+
+## 🔗 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kelvinintech.com-808000?logo=google-chrome)](https://kelvinintech.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Tobias-0A66C2?logo=linkedin)](https://www.linkedin.com/in/kelvin-r-tobias-211949219)
+[![Hashnode](https://img.shields.io/badge/Blog-Hashnode-2962FF?logo=hashnode)](https://hashnode.com/@kelvintechnical)
 
 ---
 
