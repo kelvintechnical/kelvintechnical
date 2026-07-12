@@ -83,7 +83,7 @@ B.S. Software Engineering, **WGU 2026** (3× Excellence Award) → M.S. AI Engin
 
 ## 🔗 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kelvinintech.com-808000?logo=google-chrome)](https://kelvinintech.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kelvinintechconsulting.com-808000?logo=google-chrome)](https://kelvinintechconsulting.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Tobias-0A66C2?logo=linkedin)](https://www.linkedin.com/in/kelvin-r-tobias-211949219)
 [![Hashnode](https://img.shields.io/badge/Blog-Hashnode-2962FF?logo=hashnode)](https://hashnode.com/@kelvintechnical)
 
