@@ -43,7 +43,7 @@ B.S. Software Engineering, **WGU 2026** (3× Excellence Award) → M.S. AI Engin
 
 | Repo | What It Does | Languages | Status |
 |------|-------------|-----------|--------|
-| [Hello_LLM](https://github.com/kelvintechnical/hello-agent-maf) | API auth, request structuring, response parsing | Python, C#, R | ✅ Complete |
+| [Hello_Agent MAF](https://github.com/kelvintechnical/hello-agent-maf) | API auth, request structuring, response parsing | Python, C#, R | ✅ Complete |
 | [Persona_Bot](https://github.com/kelvintechnical/Persona_Bot) | System persona + conversation loop + history | Python, C#, R | ✅ Complete |
 | [Chatbot_with_memory](https://github.com/kelvintechnical/Chatbot_with_memory) | Persistent memory across sessions | Python | ✅ Complete |
 | [ContextFromFile](https://github.com/kelvintechnical/ContextFromFile) | Inject file-based context into prompts | Python | 🔄 In Progress |
