@@ -10,7 +10,7 @@ Today, I build software products, strengthen my knowledge of machine learning an
 
 > **The through-line:** I haven't changed the way I think about problems. I've expanded the kinds of systems I can investigate.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kelvinintechconsulting.com-556B2F?style=flat)](https://kelvinintechconsulting.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kelvinintechconsulting.com-556B2F?style=flat)](https://kelvinintechconsultingllc.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-r-tobias-211949219)
 [![Hashnode](https://img.shields.io/badge/Hashnode-Technical_Writing-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@kelvintechnical)
 
