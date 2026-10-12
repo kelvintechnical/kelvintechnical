@@ -1,92 +1,116 @@
 # Kelvin R. Tobias
 
-## *I use generative AI to map and navigate protein sequence space toward better biological function.*
+### Software Engineer · AI Engineering · Systems Architecture · Emerging Computational Biology Researcher
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![VMware vSphere](https://img.shields.io/badge/VMware_vSphere-607078?style=flat&logo=vmware&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/Security%2B-FF0000?style=flat&logo=comptia&logoColor=white)
-![CompTIA Linux+](https://img.shields.io/badge/Linux%2B-FF0000?style=flat&logo=comptia&logoColor=white)
-![ITIL 4](https://img.shields.io/badge/ITIL_4-6E2B8B?style=flat&logo=itil&logoColor=white)
-![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![AWS ML Engineer Associate](https://img.shields.io/badge/AWS_ML_Engineer_Associate-232F3E?style=flat&logo=amazonaws&logoColor=white&label=In+Progress)
+**From diagnosing mechanical systems to engineering software and exploring intelligent biological systems.**
 
----
+I'm a software engineer with a background in hands-on troubleshooting, IT infrastructure, and application development. What connects my work is a simple habit: **understand how a system works, trace how its parts interact, identify why it behaves the way it does, and improve it through measurable changes.**
 
-## 👤 Who I Am
+Today, I build software products, strengthen my knowledge of machine learning and systems architecture, and study the mathematics and biology needed for computational research. My longer-term goal is to explore **generative models and latent representations for navigating protein sequence space**—an area I'm working toward, not a claim of completed protein-engineering research.
 
-B.S. Software Engineering, **WGU 2026** (3× Excellence Award) → M.S. AI Engineering, **WGU Dec 2026** → PhD-track Computational Biology.
+> **The through-line:** I haven't changed the way I think about problems. I've expanded the kinds of systems I can investigate.
 
-**Research focus:** Latent-Based Directed Evolution — using generative AI to compress and navigate protein sequence space toward functional variants.
-
-**Through-line:** systems thinking and troubleshooting under uncertainty.
+[![Portfolio](https://img.shields.io/badge/Portfolio-kelvinintechconsulting.com-556B2F?style=flat)](https://kelvinintechconsulting.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-r-tobias-211949219)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Technical_Writing-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@kelvintechnical)
 
 ---
 
-## 🧬 Research Track
-*Growing toward LDE*
+## How My Work Connects
 
-| Repo | What It Does | Status |
-|------|-------------|--------|
-| [pytorch-deep-learning-lab](https://github.com/kelvintechnical/pytorch-deep-learning-lab) | Core PyTorch fundamentals and DL experiments | 🔄 Active |
-| [DNA_Tensor_Lab](https://github.com/kelvintechnical/DNA_Tensor_Lab) | DNA sequences as PyTorch tensors | 🔄 Active |
-| [dog-breed-prediction](https://github.com/kelvintechnical/dog-breed-prediction) | CNN classifier — bridge to sequence classifiers | ✅ Complete |
+| Foundation | What I practice | How it carries forward |
+| --- | --- | --- |
+| Mechanical diagnostics | Root-cause analysis and hypothesis-driven troubleshooting | Understanding failure modes in complex systems |
+| IT and infrastructure | Linux, networking, identity, security, and service dependencies | Building and operating dependable software |
+| Software engineering | Application architecture, testing, APIs, and delivery | Turning ideas into maintainable products |
+| AI and machine learning | Tensors, models, training, evaluation, and agents | Developing and assessing intelligent systems |
+| Computational biology **(learning trajectory)** | Biological sequences, statistics, and representation learning | Future research into protein sequence modeling and design |
 
----
+## Featured Engineering Work
 
-## 🤖 LLM & Agentic Systems
-*Foundation for tool use and multi-agent reasoning*
+### Products and software delivery
 
-| Repo | What It Does | Languages | Status |
-|------|-------------|-----------|--------|
-| [Hello_Agent MAF](https://github.com/kelvintechnical/hello-agent-maf) | API auth, request structuring, response parsing | Python, C#, R | ✅ Complete |
-| [Persona_Bot](https://github.com/kelvintechnical/Persona_Bot) | System persona + conversation loop + history | Python, C#, R | ✅ Complete |
-| [Chatbot_with_memory](https://github.com/kelvintechnical/Chatbot_with_memory) | Persistent memory across sessions | Python | ✅ Complete |
-| [ContextFromFile](https://github.com/kelvintechnical/ContextFromFile) | Inject file-based context into prompts | Python | 🔄 In Progress |
-| [PDFReaderBot](https://github.com/kelvintechnical/PDFReaderBot) | Parse and query PDFs via LLM | Python | 🔜 Next |
+**DYTGT — Did You Thank God Today?**  
+A React Native / TypeScript mobile app centered on gratitude, reminders, application state, and subscriptions. Current engineering work includes automated tests, integration planning, and reliability improvements. *Project in active development; some work may be in private repositories.*
 
----
+**Wake By Faith — Scripture-based alarm prototype**  
+Exploring alarm behavior, Scripture matching, and integration into an existing mobile application. The Android prototype is experimental and disabled by default; it should not be described as a released production feature.
 
-## ⚙️ Engineering Foundation
-*The base the research is built on*
+**[D424 Capstone](https://github.com/kelvintechnical/D424-Capstone)**  
+Software engineering capstone demonstrating application development and engineering fundamentals.
 
-| Repo | Focus | Status |
-|------|-------|--------|
-| [linux-ops-mastery](https://github.com/kelvintechnical/linux-ops-mastery) | RHCSA → RHCE full study guide | 🔄 Active |
-| [D424-Capstone](https://github.com/kelvintechnical/D424-Capstone) | WGU B.S. Software Engineering capstone | ✅ Complete |
-| [Active-Directory-in-Azure](https://github.com/kelvintechnical/Installing-and-Configuring-Active-Directory-in-Microsoft-Azure) | Cloud infrastructure | ✅ Complete |
-| [Creating-A-VPN](https://github.com/kelvintechnical/Creating-A-VPN) | VPN setup and configuration | ✅ Complete |
-| [Microsoft-Windows-Defender](https://github.com/kelvintechnical/Microsoft-Windows-Defender) | Endpoint security | ✅ Complete |
-| [SEC_ERROR_OCSP_FUTURE_RESPONSE](https://github.com/kelvintechnical/SEC_ERROR_OCSP_FUTURE_RESPONSE) | TLS/OCSP error resolution | ✅ Complete |
+### Deep learning and computational biology preparation
 
----
+**[PyTorch Deep Learning Lab](https://github.com/kelvintechnical/pytorch-deep-learning-lab)**  
+Hands-on learning in tensors, autograd, model architectures, optimization, and experiments.
 
-## 📚 Currently Reading
+**[Bioinformatics Sequence Toolkit](https://github.com/kelvintechnical/bioinformatics-sequence-toolkit)**  
+Sequence-focused programming as a bridge between software engineering and biological data analysis.
 
-- *Molecular Biology of the Cell* — Alberts et al.
-- *Biological Sequence Analysis* — Durbin et al.
-- *Bioinformatics Algorithms* — Compeau & Pevzner
-- StatQuest (Josh Starmer) — intuition building
+**[Dog Breed Prediction](https://github.com/kelvintechnical/dog-breed-prediction)**  
+A computer-vision classification project for practicing model training, evaluation, and interpretation. These skills transfer to machine learning generally; image classification is **not** the same as protein sequence modeling.
 
----
+### AI agents and system integration
 
-## ✍️ Writing
+**[Persona Bot](https://github.com/kelvintechnical/Persona_Bot)** · **[Chatbot with Memory](https://github.com/kelvintechnical/Chatbot_with_memory)** · **[Context From File](https://github.com/kelvintechnical/ContextFromFile)**  
+A progression from LLM API interaction to conversation state, persistent context, and file-grounded workflows. My focus is understanding *why* each component is necessary, how information flows through it, and how to evaluate its behavior.
 
-**PyTorch Zero to One** on Hashnode — 32+ articles, fundamentals → biological sequence modeling.
-→ [hashnode.com/@kelvintechnical](https://hashnode.com/@kelvintechnical)
+### Infrastructure and operational fundamentals
+
+**[Linux Ops Mastery](https://github.com/kelvintechnical/linux-ops-mastery)**  
+Linux administration, command-line troubleshooting, permissions, services, containers, and RHCSA/RHCE-oriented learning.
+
+**[Active Directory in Azure](https://github.com/kelvintechnical/Installing-and-Configuring-Active-Directory-in-Microsoft-Azure)** · **[VPN Configuration](https://github.com/kelvintechnical/Creating-A-VPN)** · **[Microsoft Defender](https://github.com/kelvintechnical/Microsoft-Windows-Defender)**  
+Infrastructure projects showing how systems communicate, authenticate, and remain secure.
 
 ---
 
-## 🔗 Connect
+## Research Direction: Biological Sequence Representations
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kelvinintechconsulting.com-808000?logo=google-chrome)](https://kelvinintechconsulting.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Tobias-0A66C2?logo=linkedin)](https://www.linkedin.com/in/kelvin-r-tobias-211949219)
-[![Hashnode](https://img.shields.io/badge/Blog-Hashnode-2962FF?logo=hashnode)](https://hashnode.com/@kelvintechnical)
+**Question driving my learning:** Can machine-learned representations help guide a more efficient search for protein variants with desirable properties?
+
+Protein sequence spaces can be too large to examine exhaustively. I'm interested in learning the scientific and computational methods needed to explore these spaces responsibly—including the limitations of model predictions and the importance of experimental validation.
+
+My roadmap is deliberately staged:
+
+1. **Build reliable ML fundamentals:** linear algebra, probability, PyTorch, optimization, and reproducible evaluation.
+2. **Learn biological sequence analysis:** molecular biology, sequence alignment, evolutionary relationships, and biological datasets.
+3. **Study learned representations:** protein language models, embeddings, generative models, and latent-space methods.
+4. **Explore computational directed evolution:** fitness landscapes, uncertainty, candidate selection, and scientific validation.
+
+*This is a research trajectory, not a statement that I have already demonstrated improved biological function.*
+
+## Technical Toolkit
+
+**Programming & data:** Python · TypeScript · C# · R · SQL  
+**AI/ML:** PyTorch · deep learning fundamentals · LLM APIs · agent workflows  
+**Applications:** React Native · .NET · API integration · automated testing  
+**Systems:** Linux · Azure · networking · identity and access · containers · security
+
+*Tools reflect a combination of professional experience, project work, and active study—not equal levels of proficiency in every area.*
+
+## Education & Credentials
+
+- **B.S. Software Engineering, Western Governors University (2026)** — three WGU Excellence Awards.
+- **M.S. AI Engineering, Western Governors University** — academic milestone targeted for December 2026; status/date to be updated as earned.
+- **Long-term goal:** doctoral-level research in computational biology or a closely related discipline.
+- **Certifications reported:** CompTIA Security+ · CompTIA Linux+ · ITIL 4 · AWS Certified Cloud Practitioner.
+- **Studying toward:** AWS Certified Machine Learning Engineer – Associate.
+
+## How I Learn in Public
+
+I write about the **what, why, and how** of engineering—not just the final code. My goal is to explain syntax, architecture, data flow, experiments, debugging decisions, and tradeoffs clearly enough that another learner can follow the reasoning.
+
+**[PyTorch Zero to One on Hashnode](https://hashnode.com/@kelvintechnical)** — 32+ articles tracing deep learning fundamentals toward biological sequence modeling.
+
+**Current study references:** *Molecular Biology of the Cell* · *Biological Sequence Analysis* · *Bioinformatics Algorithms* · StatQuest.
 
 ---
 
-*Every project here is a layer in the same stack. The stack just goes deeper than software.*
+### Open to Connections
+
+I enjoy connecting with software engineers, infrastructure practitioners, AI builders, and computational biology researchers—especially people who value sound engineering fundamentals and the process of learning in public.
+
+[Portfolio](https://kelvinintechconsulting.com) · [LinkedIn](https://www.linkedin.com/in/kelvin-r-tobias-211949219) · [Technical writing](https://hashnode.com/@kelvintechnical)
+
+*Every project is a layer in the same stack. The stack just goes deeper than software.*
